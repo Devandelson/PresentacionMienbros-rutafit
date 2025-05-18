@@ -44,7 +44,7 @@ export let data_cartasPresentacion = [
         rol: "Diseñador UI/UX",
         telefono: '',
         correo: [(<i class="fa-solid fa-envelope"></i>), 'Andersson7151@gmail.com'],
-        portafolio: ['', 'https://github.com/AlejandroSP256'],
+        portafolio: '',
         imagen: front
     },
     {
@@ -76,7 +76,7 @@ export let data_cartasPresentacion = [
         rol: "Programdor Back-end",
         telefono: '',
         correo: [(<i class="fa-solid fa-envelope"></i>), 'alejandrosp256@gmail.com'],
-        portafolio: "",
+        portafolio: ['', 'https://github.com/AlejandroSP256'],
         imagen: programador
     },
     {
